@@ -1,0 +1,11 @@
+.env
+
+/chat-app-project
+
+
+
+## Remove extra notes files 
+/notes-app/staticfiles
+notes-app/mynotes
+notes-app/notesapp
+notes-app/api
